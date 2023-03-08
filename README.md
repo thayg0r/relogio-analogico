@@ -1,4 +1,4 @@
-# Relogio Rolex
+# Relógio Rolex
 ## Relógio analógico desenvolvido em HTML, CSS e JavaScript.
 
 <div align="center">
